@@ -17,6 +17,7 @@ public class tomb_keres
         tomb[4] = 5;
         System.out.print("Adjon meg egy szamot:");
         int keresett = Integer.parseInt(olvaso.readLine());
+        int szamlalo = 0;
         for(int i=0; i<tomb.length; i++)
         {
             if(tomb[i] == keresett)
@@ -25,7 +26,14 @@ public class tomb_keres
                 System.out.println(i+1 + " hely a tombben!");
                 break;
             }
+            else
+            {
+                szamlalo++;
+            }
         }
-
+        if(szamlalo == tomb.length)
+        {
+            System.out.println("A keresett nem eleme a tombnek!");
+        }
     }
 }
