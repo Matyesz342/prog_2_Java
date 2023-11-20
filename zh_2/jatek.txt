@@ -1,0 +1,17 @@
+Karcsi:Keltis
+Andras:Alhambra
+Peter:Pandemic
+Piroska:Pandemic
+Kati:Keltis
+Anasztazia:Alhambra
+Pal:Pandemic
+Aniko:Alhambra
+János:Carcassonne
+Eszter:Ticket to Ride
+Béla:Settlers of Catan
+Zsófi:Azul
+Géza:Azul
+Mária:7 Wonders
+Gergő:Puerto Rico
+Krisztina:Terraforming Mars
+László:Terra Mystica
